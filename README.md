@@ -1,4 +1,4 @@
-## Newspaper-Scraping-and-Sentiment-Analysis
+## Newspaper Scraping and Sentiment Analysis
 
 **Summary**
 
@@ -22,4 +22,4 @@ Sentiment analysis of full text vs headlines:
 
 ![text](/images/Text.PNG)
 
-![headlines](/images/Headlines.PNG)
+![headlines](/images/Headline.PNG)
